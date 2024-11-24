@@ -15,3 +15,12 @@ The example plot shown here is plotted using MASS:filled.contour()
 In addition to the plot attached here, the script also generates an animated plot. 
 
 https://github.com/Buijink/genderplot
+
+R 4.3.1
+tidyverse_2.0.0 
+MASS_7.3-60    
+transformr_0.1.5 
+colorspace_2.1-0 
+ggrepel_0.9.5    
+gganimate_1.0.9  
+gifski_1.12.0-2 
